@@ -1,5 +1,7 @@
 # educabase-aacc-espana
 
+[![Ko-fi · apoya el proyecto](https://img.shields.io/badge/Ko--fi-apoya_el_proyecto-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/nous_)
+
 **Datos abiertos de identificación de altas capacidades (AACC) en España**, a partir
 de las estadísticas oficiales del Ministerio de Educación, Formación Profesional y
 Deportes (**EDUCAbase**). Cobertura por **comunidad autónoma** y **provincia**,
